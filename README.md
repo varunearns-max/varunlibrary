@@ -2,14 +2,14 @@
 
 Quiet textbook-style self-study collection: subject notes, aptitude and math, reference books, previous papers, mock tests and revision notes.
 
-- Chapter 1 — Core Subject Notes (82)
+- Chapter 1 — Core Subject Notes (83)
 - Chapter 2 — General Aptitude & Engineering Mathematics (84)
 - Chapter 3 — Reference Books & Handwritten Materials (215)
 - Chapter 4 — Previous Year Papers, 1996 onward (39)
 - Chapter 5 — Full-Length Mock Tests (5)
 - Chapter 6 — Quick Revision Short Notes (11)
 
-Total: 436 resources · ~478 MB
+Total: 437 resources · ~478 MB
 
 ## Use
 

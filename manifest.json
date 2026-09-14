@@ -1,6 +1,6 @@
 {
-  "total_items": 436,
-  "completed_count": 436,
+  "total_items": 437,
+  "completed_count": 437,
   "failed_count": 0,
   "items": [
     {
@@ -5233,6 +5233,18 @@
       "rel_path": "pdfs/General Aptitude & Math/04 - English/10 - Tense.pdf",
       "pdf_url": "https://www.selfstudys.com/sitepdfs/QMBsZxT0xT2HlfRGYp1o",
       "size": 9866001,
+      "status": "downloaded"
+    },
+    {
+      "original_title": "22. Theory of P-N Junction Diode",
+      "clean_title": "02 - Theory of P-N Junction Diode",
+      "category": "4. 4. Electronic Devices & Circuits",
+      "section": "Core Notes",
+      "subfolder": "04 - Electronic Devices & Circuits",
+      "filename": "02 - Theory of P-N Junction Diode.pdf",
+      "rel_path": "pdfs/Core Notes/04 - Electronic Devices & Circuits/02 - Theory of P-N Junction Diode.pdf",
+      "pdf_url": "",
+      "size": 299620,
       "status": "downloaded"
     }
   ],
