@@ -1,3 +1,5 @@
 # local app files — never commit
 .opencode/
 opencode.jsonc
+
+.vercel
