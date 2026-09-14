@@ -1,0 +1,6 @@
+# PDFs are served via jsDelivr CDN from GitHub — no need to upload 478 MB to Vercel.
+# This keeps Vercel deploys instant and avoids Hobby plan limits.
+pdfs/
+.opencode/
+opencode.jsonc
+index.html.bak
